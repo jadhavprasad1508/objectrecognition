@@ -1,6 +1,22 @@
 # objectrecognition
 # Here you can find the program for Object Recognition.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import numpy as np #math
 import imutils #resize the image
 import cv2 #image acq.
